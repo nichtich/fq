@@ -56,6 +56,7 @@ const (
 	ETHER8023_FRAME     = "ether8023_frame"
 	EXIF                = "exif"
 	FAIRPLAY_SPC        = "fairplay_spc"
+	FIT                 = "fit"
 	FLAC                = "flac"
 	FLAC_FRAME          = "flac_frame"
 	FLAC_METADATABLOCK  = "flac_metadatablock"
