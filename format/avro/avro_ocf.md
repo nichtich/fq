@@ -14,3 +14,7 @@ Limitations:
 - Xentripetal
 xentripetal@fastmail.com
 [@xentripetal](https://github.com/xentripetal)
+
+### Identifiers
+- [Q105855052](http://www.wikidata.org/entity/Q105855052)
+- [fmt/2029](https://www.nationalarchives.gov.uk/PRONOM/fmt/2029)
